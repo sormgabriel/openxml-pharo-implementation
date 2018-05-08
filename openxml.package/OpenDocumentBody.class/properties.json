@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "openxml",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"openXMLDocument"
+	],
+	"name" : "OpenDocumentBody",
+	"type" : "normal"
+}

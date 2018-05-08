@@ -1,0 +1,3 @@
+accessing
+italic
+	^ '<w:i/>'

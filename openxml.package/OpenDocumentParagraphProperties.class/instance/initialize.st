@@ -1,0 +1,3 @@
+accessing
+initialize
+	properties := '<:r>'
